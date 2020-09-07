@@ -1,0 +1,8 @@
+set nu
+set si
+set ai
+set ci
+set ts=4
+set shiftwidth=4
+syntax on
+
